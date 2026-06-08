@@ -3,20 +3,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learner;Full+Stack+Developer;AI+Enthusiast" />
 </p>
-## 👩‍💻 About Me
+👩‍💻 About Me
 
-- 🎓 B.Tech Student at IEM Kolkata
-- 💻 Full Stack Developer
-- 🤖 Interested in AI & Machine Learning
-- 🌱 Currently learning Next.js, Kubernetes, LangChain
-- 🏆 Solved 500+ DSA problems
+- 🎓 Final Year Student at IEM Kolkata
+- 💼 **SWE Intern @ AP Moller Maersk**
+- 💻 Full Stack Developer , Problem Solver
+- 🤖 Interested in AI & DevOps
+- 🌱 Currently learning Next.js, Kubernetes, Agentic AI
+- 🏆 Solved 1000+ DSA problems
 
  ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+| Category | Tools |
+|-----------|--------|
+| **Frontend** | HTML, CSS, JavaScript, BootStrap, React, Tailwind CSS, NextJS |
+| **Backend** | Node.js, Express |
+| **Databases** | MongoDB, MySQL |
+| **DevOps/Tools** | Docker, Kubernetes, Git, Postman, Bruno |
 
 ## 📊 GitHub Stats
 
